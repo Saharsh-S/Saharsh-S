@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2800&pause=900&color=00FF9F&center=true&vCenter=true&width=900&height=70&lines=Saharsh+Sukumar;Systems+that+don't+flinch+under+load.;AI%2FML+%2B+Backend+Engineering;Currently%3A+building+a+limit+order+book+from+scratch" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2800&pause=900&color=D4A24C&center=true&vCenter=true&width=900&height=70&lines=Saharsh+Sukumar;Systems+that+don't+flinch+under+load.;AI%2FML+%2B+Backend+Engineering;Currently%3A+building+a+limit+order+book+from+scratch" alt="Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/badge/status-shipping-00FF9F?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/based%20in-Ontario%2C%20Canada-0d1117?style=for-the-badge&color=1a1a2e"/>
-<img src="https://img.shields.io/badge/open%20to-internships%20%26%20collabs-00FF9F?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/status-shipping-D4A24C?style=for-the-badge&labelColor=13151a"/>
+<img src="https://img.shields.io/badge/based%20in-Ontario%2C%20Canada-13151a?style=for-the-badge&color=13151a"/>
+<img src="https://img.shields.io/badge/open%20to-internships%20%26%20collabs-5B8CBE?style=for-the-badge&labelColor=13151a"/>
 
 </div>
 
@@ -14,10 +14,10 @@
 
 <table align="center">
 <tr>
-<td align="center"><a href="mailto:canjeevs@mcmaster.ca"><img src="https://img.shields.io/badge/EMAIL-canjeevs@mcmaster.ca-0d1117?style=flat-square&logo=protonmail&logoColor=00FF9F"/></a></td>
-<td align="center"><a href="https://www.linkedin.com/in/saharsh-sukumar"><img src="https://img.shields.io/badge/LINKEDIN-connect-0d1117?style=flat-square&logo=linkedin&logoColor=00FF9F"/></a></td>
-<td align="center"><a href="https://saharsh-s.github.io/Personal-Website/"><img src="https://img.shields.io/badge/PORTFOLIO-visit-0d1117?style=flat-square&logo=googlechrome&logoColor=00FF9F"/></a></td>
-<td align="center"><img src="https://img.shields.io/badge/PHONE-437--992--9711-0d1117?style=flat-square&logo=phone&logoColor=00FF9F"/></td>
+<td align="center"><a href="mailto:canjeevs@mcmaster.ca"><img src="https://img.shields.io/badge/EMAIL-canjeevs@mcmaster.ca-13151a?style=flat-square&logo=protonmail&logoColor=D4A24C"/></a></td>
+<td align="center"><a href="https://www.linkedin.com/in/saharsh-sukumar"><img src="https://img.shields.io/badge/LINKEDIN-connect-13151a?style=flat-square&logo=linkedin&logoColor=D4A24C"/></a></td>
+<td align="center"><a href="https://saharsh-s.github.io/Personal-Website/"><img src="https://img.shields.io/badge/PORTFOLIO-visit-13151a?style=flat-square&logo=googlechrome&logoColor=D4A24C"/></a></td>
+<td align="center"><img src="https://img.shields.io/badge/PHONE-437--992--9711-13151a?style=flat-square&logo=phone&logoColor=D4A24C"/></td>
 </tr>
 </table>
 
@@ -29,63 +29,69 @@
 
 ---
 
-### ⟶ THE 3-SECOND VERSION
+<table align="center" width="100%">
+<tr><td>
+
+<div align="center"><sub><b>SIGNAL</b></sub></div>
 
 > I got into engineering because I like watching a system fail loudly and quietly fix itself before anyone notices.
 > Right now that means writing C++ matching engines that don't drop a single order under load, and Python pipelines
 > that turn 65GB of raw noise into something a model can actually trust. I care less about "it works" and more about
 > "it works at 3am when nobody's watching."
 
+</td></tr>
+</table>
+
 ---
 
 <br>
 
-## ⟶ SKILL MATRIX
+## SKILL MATRIX
 
 <table>
 <tr><th align="left">Category</th><th align="left">Stack</th></tr>
 <tr>
 <td valign="top"><b>Core Languages</b></td>
 <td>
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00FF9F"/>
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=00FF9F"/>
-<img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=00FF9F"/>
-<img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=00FF9F"/>
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00FF9F"/>
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00FF9F"/>
-<img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=00FF9F"/>
+<img src="https://img.shields.io/badge/Python-13151a?style=flat-square&logo=python&logoColor=D4A24C"/>
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-13151a?style=flat-square&logo=cplusplus&logoColor=D4A24C"/>
+<img src="https://img.shields.io/badge/Java-13151a?style=flat-square&logo=openjdk&logoColor=D4A24C"/>
+<img src="https://img.shields.io/badge/SQL-13151a?style=flat-square&logo=postgresql&logoColor=D4A24C"/>
+<img src="https://img.shields.io/badge/JavaScript-13151a?style=flat-square&logo=javascript&logoColor=D4A24C"/>
+<img src="https://img.shields.io/badge/TypeScript-13151a?style=flat-square&logo=typescript&logoColor=D4A24C"/>
+<img src="https://img.shields.io/badge/PHP-13151a?style=flat-square&logo=php&logoColor=D4A24C"/>
 </td>
 </tr>
 <tr>
 <td valign="top"><b>AI / ML</b></td>
 <td>
-<img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=00FF9F"/>
-<img src="https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logo=xgboost&logoColor=00FF9F"/>
-<img src="https://img.shields.io/badge/ZeroMQ-0d1117?style=flat-square&logo=zeromq&logoColor=00FF9F"/>
+<img src="https://img.shields.io/badge/PyTorch-13151a?style=flat-square&logo=pytorch&logoColor=5B8CBE"/>
+<img src="https://img.shields.io/badge/XGBoost-13151a?style=flat-square&logo=xgboost&logoColor=5B8CBE"/>
+<img src="https://img.shields.io/badge/ZeroMQ-13151a?style=flat-square&logo=zeromq&logoColor=5B8CBE"/>
 </td>
 </tr>
 <tr>
 <td valign="top"><b>Infra / Tooling</b></td>
 <td>
-<img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00FF9F"/>
-<img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=00FF9F"/>
-<img src="https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=00FF9F"/>
-<img src="https://img.shields.io/badge/PhpMyAdmin-0d1117?style=flat-square&logo=phpmyadmin&logoColor=00FF9F"/>
-<img src="https://img.shields.io/badge/Google%20Workspace%20API-0d1117?style=flat-square&logo=google&logoColor=00FF9F"/>
-<img src="https://img.shields.io/badge/Make-0d1117?style=flat-square&logo=make&logoColor=00FF9F"/>
-<img src="https://img.shields.io/badge/Airtable-0d1117?style=flat-square&logo=airtable&logoColor=00FF9F"/>
+<img src="https://img.shields.io/badge/Git-13151a?style=flat-square&logo=git&logoColor=D4A24C"/>
+<img src="https://img.shields.io/badge/Linux-13151a?style=flat-square&logo=linux&logoColor=D4A24C"/>
+<img src="https://img.shields.io/badge/Bash-13151a?style=flat-square&logo=gnubash&logoColor=D4A24C"/>
+<img src="https://img.shields.io/badge/PhpMyAdmin-13151a?style=flat-square&logo=phpmyadmin&logoColor=D4A24C"/>
+<img src="https://img.shields.io/badge/Google%20Workspace%20API-13151a?style=flat-square&logo=google&logoColor=D4A24C"/>
+<img src="https://img.shields.io/badge/Make-13151a?style=flat-square&logo=make&logoColor=D4A24C"/>
+<img src="https://img.shields.io/badge/Airtable-13151a?style=flat-square&logo=airtable&logoColor=D4A24C"/>
 </td>
 </tr>
 </table>
 
 <br>
 
-## ⟶ BUILD LOG
+## BUILD LOG
 
 <sub>real projects, not tutorials followed once and abandoned</sub>
 
 <details open>
-<summary><b>🔺 Limit Order Book Simulator</b> — <code>C++ · Python · XGBoost · ZeroMQ</code> — <i>Contributor, Jun 2026–Present</i></summary>
+<summary><b>Limit Order Book Simulator</b> — <code>C++ · Python · XGBoost · ZeroMQ</code> — <i>Contributor, Jun 2026–Present</i></summary>
 <br>
 
 A market microstructure simulator built from raw sockets up — no off-the-shelf matching engine, no shortcuts.
@@ -99,7 +105,7 @@ A market microstructure simulator built from raw sockets up — no off-the-shelf
 </details>
 
 <details>
-<summary><b>🔺 Event Management & Performance Dashboard</b> — <code>PHP · JavaScript · SQL</code> — <i>Team Lead, Jan–Feb 2026</i></summary>
+<summary><b>Event Management & Performance Dashboard</b> — <code>PHP · JavaScript · SQL</code> — <i>Team Lead, Jan–Feb 2026</i></summary>
 <br>
 
 Led a 5-engineer team from spec to deployed product — sprint planning, code review, ship dates, the whole thing.
@@ -114,7 +120,7 @@ Led a 5-engineer team from spec to deployed product — sprint planning, code re
 
 <br>
 
-## ⟶ EXPERIENCE
+## POSITIONS
 
 ```
 2026 ─┬─ McMaster University — Machine Learning Research Assistant
@@ -134,14 +140,14 @@ Led a 5-engineer team from spec to deployed product — sprint planning, code re
 
 <br>
 
-## ⟶ ACTIVITY
+## ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saharsh-s&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF9F&icon_color=00FF9F&text_color=c9d1d9&hide_rank=false" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saharsh-s&hide_border=true&background=0d1117&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saharsh-s&show_icons=true&hide_border=true&bg_color=13151a&title_color=D4A24C&icon_color=5B8CBE&text_color=c9d1d9&hide_rank=false" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saharsh-s&hide_border=true&background=13151a&ring=D4A24C&fire=D4A24C&currStreakLabel=5B8CBE&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saharsh-s&bg_color=0d1117&color=00FF9F&line=00FF9F&point=ffffff&hide_border=true&area=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saharsh-s&bg_color=13151a&color=5B8CBE&line=D4A24C&point=ffffff&hide_border=true&area=true" width="90%"/>
 
 </div>
 
@@ -153,7 +159,7 @@ Led a 5-engineer team from spec to deployed product — sprint planning, code re
 
 <div align="center">
 
-### ⟶ CURRENTLY
+## NOW
 
 🔭 Deep in the **Limit Order Book Simulator** — teaching a model to see liquidity before it disappears
 📚 Coursework: Deep Learning, Data Structures & Algorithms, Computer Architecture
@@ -162,6 +168,6 @@ Led a 5-engineer team from spec to deployed product — sprint planning, code re
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=555555&center=true&vCenter=true&width=600&height=30&lines=echo+%22always+compiling%2C+rarely+finished%22" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=5B8CBE&center=true&vCenter=true&width=600&height=30&lines=echo+%22always+compiling%2C+rarely+finished%22" />
 
 </div>
