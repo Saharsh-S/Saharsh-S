@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2600&pause=1000&color=FF003C&background=000000&center=true&vCenter=true&width=940&height=75&lines=SAHARSH+SUKUMAR;MACHINE+LEARNING+%2F%2F+QUANTITATIVE+SYSTEMS;MODEL+RISK+%E2%89%A0+MARKET+RISK;BUILDING+IN+THE+NOISE" alt="Typing SVG" />
 
-<sub>▏▎▍▌▋▊▉█▉▊▋▌▍▎▏&nbsp;&nbsp;&nbsp;<b>TERMINAL&nbsp;ONLINE</b>&nbsp;&nbsp;&nbsp;▏▎▍▌▋▊▉█▉▊▋▌▍▎▏</sub>
+<sub><b>TERMINAL&nbsp;ONLINE</b></sub>
 
 </div>
 
@@ -18,7 +18,7 @@
 <tr>
 <td width="100%" align="center">
 
-**AI/ML @ McMaster University**  ·  Honors B.A.Sc. Computer Science, AI/ML Specialization  ·  Class of 2029  ·  Hamilton, ON
+**AI/ML @ McMaster University**  ·  Honors B.A.Sc. Computer Science, AI/ML Specialization  ·  Toronto, ON
 
 </td>
 </tr>
@@ -32,15 +32,7 @@
 
 </div>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=saharsh-s&label=PROFILE+VIEWS&color=FF003C&style=flat-square&labelColor=000000"/>
-</div>
-
 <br>
-
-```diff
-▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏
-```
 
 ## `01` &nbsp;ABOUT
 
@@ -56,18 +48,21 @@
 <td width="33%" align="center" valign="top">
 
 **◆ MARKET MICROSTRUCTURE**
+<br>
 <sub>modeling order flow, liquidity, and price formation at the tick level</sub>
 
 </td>
 <td width="33%" align="center" valign="top">
 
 **◆ APPLIED ML PIPELINES**
+<br>
 <sub>data at scale, validated, versioned, and trusted before it reaches a model</sub>
 
 </td>
 <td width="33%" align="center" valign="top">
 
 **◆ SYSTEMS AUTOMATION**
+<br>
 <sub>infrastructure that removes humans from the repetitive parts of the loop</sub>
 
 </td>
@@ -75,10 +70,6 @@
 </table>
 
 <br>
-
-```diff
-▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏
-```
 
 ## `03` &nbsp;TECH STACK
 
@@ -122,10 +113,6 @@
 
 <br>
 
-```diff
-▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏
-```
-
 ## `04` &nbsp;FEATURED WORK
 
 <table width="100%">
@@ -161,10 +148,6 @@ Led a 5-engineer team from spec to a deployed, production-serving platform.
 
 <br>
 
-```diff
-▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏
-```
-
 ## `05` &nbsp;POSITIONS
 
 ```
@@ -185,10 +168,6 @@ Led a 5-engineer team from spec to a deployed, production-serving platform.
 
 <br>
 
-```diff
-▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏
-```
-
 ## `06` &nbsp;RESEARCH INTERESTS
 
 <table width="100%">
@@ -202,93 +181,7 @@ Led a 5-engineer team from spec to a deployed, production-serving platform.
 
 <br>
 
-```diff
-▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏
-```
-
-## `07` &nbsp;ANALYTICS
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saharsh-s&show_icons=true&hide_border=true&bg_color=000000&title_color=FF003C&icon_color=FF003C&text_color=e0e0e0&hide_rank=false" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saharsh-s&hide_border=true&background=000000&ring=FF003C&fire=FF003C&currStreakLabel=FF003C&sideLabels=e0e0e0&currStreakNum=e0e0e0&sideNums=e0e0e0&dates=808080" height="165"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharsh-s&layout=compact&hide_border=true&bg_color=000000&title_color=FF003C&text_color=e0e0e0" height="165"/>
-
-</div>
-
-<br>
-
-<!-- ============================================================ -->
-<!-- CONTRIBUTION SNAKE — this needs a one-time setup in a repo    -->
-<!-- named exactly your GitHub username. Create                    -->
-<!-- .github/workflows/snake.yml there with the contents below,    -->
-<!-- then this image will render your contribution graph as an     -->
-<!-- animated crimson snake automatically, updated daily.          -->
-<!-- ============================================================ -->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/saharsh-s/saharsh-s/output/github-contribution-grid-snake.svg" width="100%"/>
-
-</div>
-
-<details>
-<summary><sub>⚙ snake.yml — paste into <code>.github/workflows/snake.yml</code> to activate the animation above</sub></summary>
-
-```yaml
-name: generate snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: saharsh-s
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23FF003C&color_dots=000000,1a1a1a,401019,801f30,FF003C
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
-<br>
-
-```diff
-▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏
-```
-
-## `08` &nbsp;CURRENTLY LEARNING
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Reinforcement%20Learning-000000?style=flat-square&color=FF003C"/>
-<img src="https://img.shields.io/badge/Market%20Making%20Strategies-000000?style=flat-square&color=FF003C"/>
-<img src="https://img.shields.io/badge/Low%20Latency%20Systems-000000?style=flat-square&color=FF003C"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-```diff
-▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏▏▎▍▌▋▊▉█▉▊▋▌▍▎▏
-```
 
 **LET'S BUILD SOMETHING**
 
