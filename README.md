@@ -17,7 +17,7 @@
 
 - **Machine Learning Developer Intern**, IBM *(incoming, W27)*
 - **ML Sub-team**, McMaster Exoskeleton: predictive torque analysis
-- **ML Research Assistant**, McMaster University: Big Five personality prediction with BERT and RoBERTa on 65GB+ of Reddit text
+- **ML Research Assistant**, McMaster University: Determining AMITA using Big5 prediction 
 - **AI Automation Engineer**, Interact Health Pro: Claude-powered QA pipelines and agents for medical-legal reports
 - **Software Engineer Intern**, Fiducia: full-stack and backend work for a fintech product serving 100+ clients
 
@@ -31,15 +31,3 @@ AI deal intelligence platform analyzing companies across 17 categories with a 4-
 
 **Tradeautopsy** &nbsp;`ML` `quant research` *(in progress)*
 Tells you whether a trade was a bad decision or just a bad outcome.
-
-## Toolkit
-
-`Python` `TypeScript` `Java` `C/C++` `SQL` &nbsp;·&nbsp; `PyTorch` `HuggingFace` `scikit-learn` `XGBoost` `LangChain` &nbsp;·&nbsp; `Next.js` `React` `Flask` `FastAPI` &nbsp;·&nbsp; `Docker` `PostgreSQL` `AWS` `Linux`
-
-<div align="center">
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:8cf0cb,50:3ecf8e,100:0e9c63&section=footer" width="100%" alt="footer wave"/>
-
-</div>
