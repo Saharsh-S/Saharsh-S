@@ -2,7 +2,7 @@
 
 CS at McMaster. I like building things with machine learning.
 
-[Portfolio](https://portfolio-hex17.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/saharsh-sukumar/) · [Email](mailto:cssaharsh@gmail.com) · [Resume](https://drive.google.com/file/d/1LluNCnmEjRcrmm_yV12exSQn2inWoNew/view?usp=sharing)
+[Portfolio](https://portfolio-hex17.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/saharsh-sukumar/) · [Email](mailto:cssaharsh@gmail.com) · [Resume](https://drive.google.com/file/d/1LluNCnmEjRcrmm_yV12exSQn2inWoNew/view?usp=sharing) · [X](https://x.com/Saharsh_CS)
 
 ---
 
@@ -18,4 +18,3 @@ CS at McMaster. I like building things with machine learning.
 
 - [**Trait-Bench**](https://github.com/Saharsh-S/trait-bench): tests how well AI models can predict personality
 - [**Atlas**](https://atlas-hex17.vercel.app/): AI tool that researches companies for you
-- **Tradeautopsy** *(in progress)*: tells you if a trade was a bad call or just bad luck
